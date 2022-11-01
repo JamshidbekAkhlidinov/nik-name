@@ -1,7 +1,7 @@
 <?php
 
 include_once "./src/NikName.php";
-use jamshidbekakhlidinovl\NikName;
+use jamshidbekakhlidinov\NikName;
 
 $text = new NikName();
 $text->setText("Jamshidbek");
