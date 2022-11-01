@@ -1,6 +1,6 @@
 <?php
 
-namespace jamshidbekakhlidinovl;
+namespace jamshidbekakhlidinov;
 
 class NikName{
 
