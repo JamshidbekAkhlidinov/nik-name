@@ -1,18 +1,16 @@
 {
-    "name": "jamshidbekakhlidinov/nik-name",
+    "name": "ustadev/nik-name",
     "description": "Turli xildagi yozuvlarni ishlab chiqish uchun",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "jamshidbekakhlidinov\\": "src/"
+            "ustadev\\text\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "Jamshidbek Akhlidinov",
-            "email": "JamshidbekAkhlidinov@gmail.com"
-        }
-    ],
+    "authors": [{
+        "name": "Jamshidbek Akhlidinov",
+        "email": "JamshidbekAkhlidinov@gmail.com"
+    }],
     "require": {}
 }
